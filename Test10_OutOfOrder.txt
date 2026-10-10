@@ -1,0 +1,28 @@
+TEST 10: Out-of-order answers (voice call)
+Platform: Retell AI
+Result: PASS
+Call status: Successful
+Disconnection reason: Agent_hangup
+End to end latency: 846 ms
+Summary: The user gave property type, sole ownership, and original documents in one sentence. The agent skipped those questions and asked only the next missing one (loan amount), then collected income, market value, and tenure, and handed off to a senior loan expert.
+
+TRANSCRIPT
+
+User (0:00): Hello?
+Agent (0:01): Hello, am I speaking with Asmitha?
+User (0:03): Speaking.
+Agent (0:05): Hi Asmitha, I'm Dharshini, a virtual assistant from Home Credit. Is this a good time to talk for two minutes?
+User (0:11): Yes. I can talk.
+Agent (0:14): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property of up to seventy-five lakh rupees. Is the property residential, commercial, or industrial?
+User (0:25): It's a residential flat. I'm the sole owner. Originals are available at home.
+Agent (0:32): What loan amount do you need?
+User (0:34): I need around fifty lakhs.
+Agent (0:36): How are you employed, salaried or self-employed, and does your income come through a bank?
+User (0:42): I'm a salaried, and my salary comes into my bank account.
+Agent (0:46): What's the approximate current market value of the flat?
+User (0:49): The market value is about one core.
+Agent (0:52): Just to confirm, you mean about one crore rupees, right?
+User (0:56): Yes.
+Agent (0:58): How many years would you like to repay the loan over?
+User (1:01): Ten years.
+Agent

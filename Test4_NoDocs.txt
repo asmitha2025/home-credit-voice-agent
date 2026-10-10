@@ -1,0 +1,21 @@
+TEST 4: No original documents (voice call)
+Platform: Retell AI
+Result: PASS
+Disconnection: end_call tool used by the agent
+Summary: The user has a solely owned residential house but only has photocopies of the documents. The agent said she does not meet the criteria and ended the call politely.
+
+TRANSCRIPT
+
+User (0:01): Hello.
+Agent (0:03): Hello, I'm Dharshini calling from Home Credit. Am I speaking with Asmitha?
+User (0:07): Speaking.
+Agent (0:09): Is this a good time to talk for two minutes?
+User (0:12): Yes. I can talk.
+Agent (0:14): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property offer up to seventy-five lakh rupees. Is the property a residential house or flat, commercial shop or office, or industrial factory?
+User (0:28): It's a residential house.
+Agent (0:31): Is it owned solely by you, or jointly with family or partners?
+User (0:35): I'm the only owner.
+Agent (0:37): Do you have the original property documents available for verification?
+User (0:42): I only have photocopies of the document.
+Agent (0:45): I'm sorry, based on this detail, you don't meet the criteria for this specific offer at this time. Thank you for your time, have a nice day.
+[Agent ended the call using end_call at 0:53]

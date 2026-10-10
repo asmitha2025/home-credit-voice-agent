@@ -1,0 +1,28 @@
+TEST 3: Cash income (voice call)
+Platform: Retell AI
+Result: PASS
+Call status: Successful
+Disconnection reason: Agent_hangup
+End to end latency: 768 ms
+Summary: The user has a solely owned commercial shop with original documents and needs about 40 lakh. She is self-employed with cash income, so the agent said she does not meet the criteria and ended the call.
+
+TRANSCRIPT
+
+User (0:03): Hello?
+Agent (0:04): Hello, I'm Dharshini, an AI assistant from Home Credit. Am I speaking with Asmitha?
+User (0:10): Speaking.
+Agent (0:11): Is this a good time to talk for two minutes?
+User (0:15): Yes. I can talk.
+Agent (0:17): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property of up to seventy-five lakh rupees. I'll ask a few quick questions to see if it suits you.
+User (0:29): Okay.
+Agent (0:30): What type of property is it: a residential house or flat, commercial shop or office, or industrial factory?
+User (0:37): It's a commercial shop.
+Agent (0:40): Is the shop solely owned by you, or jointly owned with family or partners?
+User (0:45): I'm the only owner.
+Agent (0:47): Do you have the original property documents available for verification?
+User (0:52): As the originals are available at home.
+Agent (0:57): How much loan amount do you need?
+User (1:00): I need around forty lakhs.
+Agent (1:03): Are you salaried or self-employed, and does your income come through the bank or in cash?
+User (1:09): I'm self employed, and I get my income in cash.
+Agent (1:13): Based on this detail, you don't meet the criteria for this specific offer at this time. Thank you for your time, have a nice day

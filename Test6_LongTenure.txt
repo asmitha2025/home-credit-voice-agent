@@ -1,0 +1,37 @@
+TEST 6: Tenure too long (voice call)
+Platform: Retell AI
+Result: PASS
+Call status: Successful
+Disconnection reason: Agent_hangup
+End to end latency: 1121 ms
+Summary: The user has a solely owned industrial factory with original documents, needs about 60 lakh, is self-employed with bank income, and values the factory at about 2 crore. She asked for a 20-year tenure, so the agent said she does not meet the criteria and ended the call.
+
+TRANSCRIPT
+
+User (0:00): Hello?
+Agent (0:01): Hello, I'm Dharshini, calling from Home Credit. Am I speaking with Asmitha?
+User (0:06): Speaking.
+Agent (0:07): Is this a good time to talk for two minutes?
+User (0:10): Yes. I can talk.
+Agent (0:13): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property of up to seventy-five lakh rupees. May I ask a few quick questions to check if it suits you?
+User (0:23): Yes.
+Agent (0:25): What type of property is it: a residential house or flat, commercial shop or office, or industrial factory?
+User (0:33): It's an industrial factory. And the only order.
+Agent (0:37): Is the factory solely owned by you, or jointly owned with family or partners?
+User (0:43): I'm the only owner.
+Agent (0:44): Do you have the original property documents available for verification?
+User (0:48): Yes. The originals are available at home.
+Agent (0:51): How much loan amount do you need?
+User (0:53): I need around sixty lakhs.
+Agent (0:56): Are you salaried or self-employed, and does your income come through a bank account or in cash?
+User (1:02): MSF and light and my incomes comes into my bank account.
+Agent (1:05): You're self-employed and your income comes through your bank account, correct?
+User (1:09): Yes.
+Agent (1:11): What's the approximate current market value of the factory?
+User (1:15): The market value is about two course.
+Agent (1:19): Do you mean about two crore rupees?
+User (1:21): Yes.
+Agent (1:22): How many years would you like to repay the loan over?
+User (1:25): I want twenty years.
+Agent (1:28): Based on the repayment period, you do not meet the criteria for this specific offer at this time. Thank you for your time, have a nice day.
+[Agent ended the call using end_call at 1:36]

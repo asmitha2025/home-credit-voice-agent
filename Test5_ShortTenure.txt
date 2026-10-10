@@ -1,0 +1,32 @@
+TEST 5: Tenure too short (voice call)
+Platform: Retell AI
+Result: PASS
+Call status: Successful
+Disconnection reason: Agent_hangup
+End to end latency: 1045 ms
+Summary: The user has a solely owned residential flat with original documents, wants about 50 lakh, is salaried with bank income, and values the flat at about 1 crore. She asked for a two-year tenure, so the agent explained that the offer needs three to fifteen years and ended the call politely.
+
+TRANSCRIPT
+
+User (0:02): Hello?
+Agent (0:03): Hello, am I speaking with Asmitha?
+User (0:06): I'm speaking.
+Agent (0:08): I'm Dharshini, an AI assistant calling from Home Credit about a special offer. Is this a good time to talk for two minutes?
+User (0:16): Yes. We can talk.
+Agent (0:20): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property of up to seventy-five lakh rupees. Is the property residential, commercial, or industrial?
+User (0:31): It's a residential flat.
+Agent (0:34): Is the flat solely owned by you, or jointly owned with someone?
+User (0:38): I'm the only owner.
+Agent (0:40): Do you have the original property documents available for verification?
+User (0:45): Yes. The originals are available at home.
+Agent (0:48): How much loan amount do you need?
+User (0:50): I need around fifty lakhs.
+Agent (0:53): Are you salaried or self-employed, and does your income come through a bank or in cash?
+User (0:58): I'm a salaried and my salary comes into my bank account.
+Agent (1:03): What's the approximate current market value of the flat?
+User (1:07): The market value is about one core.
+Agent (1:10): And how many years would you like to repay the loan over?
+User (1:14): I want two ears.
+Agent (1:17): Just to confirm, did you mean two years?
+User (1:20): Yes.
+Agent (1:21): I'm sorry,

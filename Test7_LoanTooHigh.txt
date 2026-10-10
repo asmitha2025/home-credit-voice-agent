@@ -1,0 +1,33 @@
+TEST 7: Loan above 75 lakh (voice call)
+Platform: Retell AI
+Result: PASS
+Call status: Successful
+Disconnection reason: Agent_hangup
+End to end latency: 908 ms
+Summary: The user asked for 90 lakh. The agent explained the maximum is 75 lakh, and the user agreed to proceed with 75 lakh. The agent then collected the remaining details (salaried, bank income, about 1.2 crore value, 10 years) and handed off to a senior loan expert.
+
+TRANSCRIPT
+
+User (0:03): Hello?
+Agent (0:04): Hello, am I speaking with Asmitha?
+User (0:06): Speaking.
+Agent (0:08): I'm Dharshini, a virtual assistant from Home Credit. Is this a good time to talk for two minutes?
+User (0:14): Yes. I can talk.
+Agent (0:17): As a thank you for your loyalty, you may be eligible for a pre-approved Loan Against Property of up to seventy-five lakh rupees. I'll ask a few quick questions, what type of property is it?
+User (0:28): It's a residential house and
+Agent (0:33): Is the house solely owned by you, or jointly owned?
+User (0:37): I'm the only owner.
+Agent (0:39): Do you have the original property documents available for verification?
+User (0:43): As the originals are available at your home.
+Agent (0:49): What loan amount do you need?
+User (0:51): I need ninety lakhs.
+Agent (0:54): The maximum for this offer is seventy-five lakh rupees. Would you like to proceed with seventy-five lakh?
+User (1:00): Yes. I will go with seventy five lakhs.
+Agent (1:04): Are you salaried or self-employed, and does your income come through a bank or in cash?
+User (1:08): I'm a salaried and my salary comes into my bank account.
+Agent (1:12): What's the approximate current market value of the property?
+User (1:15): The market value is about one core twenty lakhs.
+Agent (1:19): And how many years would you like to repay the loan over?
+User (1:22): Ten years.
+Agent (1:24): A senior loan expert will call you back shortly to share the exact interest rate. Thank you for your time, have a nice day.
+[Agent ended the call using end_call at 1:30]
